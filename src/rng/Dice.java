@@ -1,8 +1,6 @@
 package rng;
 
-import java.util.Random;
 import java.util.Scanner;
-import java.text.DecimalFormat;
 
 public class Dice {
 
